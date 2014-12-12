@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-from optparse import OptionParser
 from random import randint
 from random import shuffle
 
